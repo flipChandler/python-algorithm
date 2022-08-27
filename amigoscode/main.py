@@ -313,7 +313,3 @@ def convert_gender(gender="unknown"):
         return f"Gender {gender} is unknown"
 
 print(convert_gender("P"))
-
-
-
-
